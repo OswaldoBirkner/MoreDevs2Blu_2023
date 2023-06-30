@@ -5,29 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88324d31-1201-4fbd-941e-11920bf179a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devs2Blu_2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/enumeradores/Cargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/enumeradores/Disponibilidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/enumeradores/Escolaridade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/enumeradores/EstadoCivil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/enumeradores/StatusComanda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/enumeradores/StatusMesa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/enumeradores/StatusPreparoPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/enumeradores/TipoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/modelos/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/modelos/Comanda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/modelos/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/modelos/Mesa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/modelos/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/modelos/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/modelos/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ravin/utilidade/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ravin/controller/FuncionarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ravin/utilidade/UtilitarioData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositorios/FuncionarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ravin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ravin/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ravin/enumeradores/Disponibilidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ravin/enumeradores/Disponibilidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ravin/modelos/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ravin/modelos/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ravin/modelos/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ravin/modelos/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ravin/utilidade/DateUtils.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -57,6 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
@@ -70,5 +58,16 @@
       <updated>1687904036369</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
